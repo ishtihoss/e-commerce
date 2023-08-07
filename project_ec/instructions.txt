@@ -1,5 +1,0 @@
-- Get data from Kaggle
-- Do exploratory
-- Come up with game plan
-- Start coding
-- Finish by 29th July
