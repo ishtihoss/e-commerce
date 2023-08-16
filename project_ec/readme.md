@@ -18,9 +18,8 @@ Finally, we perform hyperparameter tuning on our XGBoost model using grid search
 
 
 ## The outcome of this project is a machine learning model that can predict the quantity of products sold on a given day, which can be helpful for managing inventory and forecasting revenue. 
-=======
+
 The outcome of this project is a machine learning model that can predict the quantity of products sold on a given day, which can be helpful for managing inventory and forecasting revenue.
->>>>>>> f5a83d953af33b462326fc607148be4083e9fbe6
 
 ## Dataset
 The dataset consists of e-commerce transactions from different countries. For each transaction, we have the following information:
