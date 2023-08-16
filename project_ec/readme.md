@@ -16,8 +16,8 @@ After preparing our features, we split the data into a training set and a testin
 
 Finally, we perform hyperparameter tuning on our XGBoost model using grid search and k-fold cross-validation to find the best parameters that minimize our RMSE.
 
-<<<<<<< HEAD
-The outcome of this project is a machine learning model that can predict the quantity of products sold on a given day, which can be helpful for managing inventory and forecasting revenue. 
+
+## The outcome of this project is a machine learning model that can predict the quantity of products sold on a given day, which can be helpful for managing inventory and forecasting revenue. 
 =======
 The outcome of this project is a machine learning model that can predict the quantity of products sold on a given day, which can be helpful for managing inventory and forecasting revenue.
 >>>>>>> f5a83d953af33b462326fc607148be4083e9fbe6
