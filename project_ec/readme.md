@@ -1,4 +1,4 @@
-# Project: E-commerce Sales Analysis and Quantity Prediction
+# Project: E-commerce Sales Analysis and Quantity Prediction (Work-in-progress, still needs further tweaking)
 
 In this project, we build a machine learning model to predict the quantity of products sold in an e-commerce store based on historical sales data. We use the XGBoost regressor, a powerful gradient boosting framework, to create our predictive model. 
 
